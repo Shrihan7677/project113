@@ -1,0 +1,62 @@
+body{
+    background-color: powderblue;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+span{
+    font-size: 30px;
+}
+
+#camera,#result{
+    border: 2px dashed black;
+    border-radius: 25;
+    width: 350px;
+    height:300px;
+}
+#result_emotion_name{
+    color: black;
+
+}
+.emotion_name{
+    font-size: 50px;
+}
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+label{
+    font-size: 14px;
+    color:cadetblue;
+    padding: 6px;
+    background-color: white;
+    border-radius: 10px;
+}
+.emoji{
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
